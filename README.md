@@ -10,9 +10,9 @@ Notre projet consiste à utiliser les auto encodeurs pour obtenir des images à 
 
 Ainsi notre but sera de faire en sorte que les variables latentes soit entièrement régularisées, autrement dit que chaque variable puissent décrire correctement les images fournies en entrées, pour qu'on puisse ensuite comparer les images fournies en sortie aux vraies images grâce à une fonction de perte (voire deux pour obtenir plus de précision). 
 </p>
-  
+<p style = "background-color: white">
 ![image_autoencoder](https://miro.medium.com/max/828/1*qFzKC1GqOR17XaiQBex83w.webp)
-
+</p>
 #### Contexte
 
 Dans ce projet, nous allons traiter deux types d'images:
