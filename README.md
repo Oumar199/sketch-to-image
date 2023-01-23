@@ -12,9 +12,9 @@ Ainsi notre but sera de faire en sorte que les variables latentes soit entièrem
 </p>
 
 ```html
-<p style = "background-color: white">
-<img src = "https://miro.medium.com/max/828/1*qFzKC1GqOR17XaiQBex83w.webp">
-</p>
+<div class = "background: white;">
+![autoencoder]("https://miro.medium.com/max/828/1*qFzKC1GqOR17XaiQBex83w.webp")
+</div>
 ```
 #### Contexte
 
