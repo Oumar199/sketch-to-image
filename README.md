@@ -12,9 +12,9 @@ Ainsi notre but sera de faire en sorte que les variables latentes soit entièrem
 </p>
 
 
-<div class = "background: white;">
+<span style = "background: white;">
 ![autoencoder](https://miro.medium.com/max/828/1*qFzKC1GqOR17XaiQBex83w.webp)
-</div>
+</span>
 
 #### Contexte
 
