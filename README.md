@@ -19,7 +19,7 @@ Ainsi notre but sera de faire en sorte que les variables latentes soit entièrem
 Dans ce projet, nous allons traiter deux types d'images:
 
 - En entrée: Les 'rendered sketch' (données en format svg ou png) qui sont les dessins des objets (**Grayscale**). Lien pour télécharger -> [sketch_link](https://drive.google.com/file/d/1_AIxKnZXQms5Ezb-cEeVIDIoVG-eliHc/view)
-- En sortie: Les 'sketch' (données en format png) qui sont les images originaux en **RGB**. 
+- En sortie: Les images originales (données en format png) qui sont en mode **RGB**. 
 
 ![rgb_to_sketch](https://mtli.github.io/sketch/img/Wild-half.jpg)
 
